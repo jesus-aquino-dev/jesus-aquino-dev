@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jesús Aquino 👋
 
-<!--
-**jesus-aquino-dev/jesus-aquino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analyst Developer** from Paraguay. I build web applications and desktop systems in **Visual FoxPro**, from requirements analysis to deployment.
 
-Here are some ideas to get you started:
+### 🔧 What I do
+- **Web applications** — custom systems for businesses
+- **Visual FoxPro** — development, maintenance and bug fixing of existing systems
+- **System migration** — from FoxPro to web, keeping your data and business logic
+- **Analysis** — requirements gathering and solution design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+Visual FoxPro · HTML · CSS · JavaScript · SQL
+
+### 📂 Projects
+See my pinned repositories below.
+
+### 📫 Contact
+- 🇵🇾 Paraguay · Español / English
