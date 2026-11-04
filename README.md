@@ -15,6 +15,7 @@ Visual FoxPro · Python · Flask · PostgreSQL · SQL · HTML · CSS · JavaScri
 | Project | What it does |
 |---|---|
 | [**dbf-to-sql-migrator**](https://github.com/jesus-aquino-dev/dbf-to-sql-migrator) | Migrates Visual FoxPro tables (`.dbf`) to PostgreSQL, SQL Server or MySQL without losing records to dirty data, and reports every issue in Excel. *Python · SQLAlchemy · openpyxl* |
+| [**flask-sales-dashboard**](https://github.com/jesus-aquino-dev/flask-sales-dashboard) | Web dashboard for the migrated sales data: totals, monthly trend, top products, cities and customers, with a date filter and a JSON API. *Flask · SQLAlchemy · Chart.js* |
 
 ### 📫 Contact
 - 🇵🇾 Paraguay · Español / English
