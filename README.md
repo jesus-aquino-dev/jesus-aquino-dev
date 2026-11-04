@@ -9,10 +9,12 @@
 - **Analysis** — requirements gathering and solution design
 
 ### 🛠️ Tech
-Visual FoxPro · HTML · CSS · JavaScript · SQL
+Visual FoxPro · Python · Flask · PostgreSQL · SQL · HTML · CSS · JavaScript · Excel
 
 ### 📂 Projects
-See my pinned repositories below.
+| Project | What it does |
+|---|---|
+| [**dbf-to-sql-migrator**](https://github.com/jesus-aquino-dev/dbf-to-sql-migrator) | Migrates Visual FoxPro tables (`.dbf`) to PostgreSQL, SQL Server or MySQL without losing records to dirty data, and reports every issue in Excel. *Python · SQLAlchemy · openpyxl* |
 
 ### 📫 Contact
 - 🇵🇾 Paraguay · Español / English
